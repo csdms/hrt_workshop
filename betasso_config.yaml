@@ -1,0 +1,8 @@
+bmi-topography:
+  dem_type: 'SRTMGL1'
+  south: 40.0073
+  north: 40.0169
+  west: -105.3445
+  east: -105.3327
+  output_format: GTiff
+  cache_dir: "./results_betasso"
