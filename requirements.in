@@ -1,5 +1,5 @@
-bmi_geotiff
-bmi_topography
+bmi-geotiff
+bmi-topography
 imageio[ffmpeg]>=2.19.1
 jupyter
 landlab>=2.4.1
