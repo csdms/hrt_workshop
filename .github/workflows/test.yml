@@ -15,6 +15,7 @@ jobs:
 
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - uses: wntrblm/nox@2022.8.7
         with:
           python-versions: "3.9, 3.10, 3.11"
