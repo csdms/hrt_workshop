@@ -2,19 +2,13 @@ name: overland_flow
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
-  - landlab>=2.4.1
-  - pymt>=1.3.1
-  - pymt_topography
+  - python>=3.9
   - bmi-geotiff
-  - cdsapi
-  - numpy<1.24.0
-  - xarray
+  - bmi-topography
   - imageio>=2.19.1
-  - matplotlib
+  - imageio-ffmpeg
   - jupyter
-  - pip
-  - pip:
-    - pymt-era5
-    - imageio_ffmpeg
-
+  - landlab>=2.4.1
+  - matplotlib
+  - numpy<1.24.0
+  - tqdm
