@@ -59,6 +59,7 @@ click==8.1.3
     #   click-plugins
     #   cligj
     #   rasterio
+    #   rich-click
 click-plugins==1.1.1
     # via rasterio
 cligj==0.7.2
@@ -168,8 +169,10 @@ jupyterlab-widgets==3.0.5
     # via ipywidgets
 kiwisolver==1.4.4
     # via matplotlib
-landlab==2.5.0
+landlab==2.6.0
     # via -r requirements.in
+markdown-it-py==2.1.0
+    # via rich
 markupsafe==2.1.2
     # via
     #   jinja2
@@ -182,6 +185,8 @@ matplotlib-inline==0.1.6
     # via
     #   ipykernel
     #   ipython
+mdurl==0.1.2
+    # via markdown-it-py
 mistune==2.0.5
     # via nbconvert
 mypy-extensions==1.0.0
@@ -229,7 +234,6 @@ numpy==1.24.2
     #   pandas
     #   patsy
     #   rasterio
-    #   richdem
     #   scipy
     #   snuggs
     #   statsmodels
@@ -297,6 +301,7 @@ pygments==2.14.0
     #   jupyter-console
     #   nbconvert
     #   qtconsole
+    #   rich
 pyparsing==3.0.9
     # via
     #   matplotlib
@@ -349,7 +354,9 @@ rfc3986-validator==0.1.1
     # via
     #   jsonschema
     #   jupyter-events
-richdem==0.3.4
+rich==13.3.1
+    # via rich-click
+rich-click==1.6.1
     # via landlab
 rioxarray==0.13.3
     # via
