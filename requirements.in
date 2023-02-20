@@ -2,7 +2,7 @@ bmi-geotiff
 bmi-topography
 imageio[ffmpeg]>=2.19.1
 jupyter
-landlab>=2.4.1
+landlab>=2.6
 matplotlib
-numpy<1.25.0
+numpy
 tqdm
