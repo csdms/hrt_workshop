@@ -177,7 +177,7 @@ markupsafe==2.1.2
     # via
     #   jinja2
     #   nbconvert
-matplotlib==3.7.0
+matplotlib==3.7.1
     # via
     #   -r requirements.in
     #   landlab
