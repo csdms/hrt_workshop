@@ -8,7 +8,7 @@ dependencies:
   - imageio>=2.19.1
   - imageio-ffmpeg
   - jupyter
-  - landlab>=2.4.1
+  - landlab>=2.6
   - matplotlib
-  - numpy<1.24.0
+  - numpy
   - tqdm
