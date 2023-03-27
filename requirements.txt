@@ -89,7 +89,7 @@ idna==3.4
     #   anyio
     #   jsonschema
     #   requests
-imageio[ffmpeg]==2.26.0
+imageio[ffmpeg]==2.27.0
     # via -r requirements.in
 imageio-ffmpeg==0.4.8
     # via imageio
