@@ -219,7 +219,7 @@ notebook==6.5.2
     # via jupyter
 notebook-shim==0.2.2
     # via nbclassic
-numpy==1.24.2
+numpy==1.24.3
     # via
     #   -r requirements.in
     #   bmi-geotiff
@@ -314,6 +314,7 @@ pyshp==2.3.1
     # via landlab
 python-dateutil==2.8.2
     # via
+    #   arrow
     #   jupyter-client
     #   matplotlib
     #   pandas
