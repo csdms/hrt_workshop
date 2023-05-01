@@ -89,7 +89,7 @@ idna==3.4
     #   anyio
     #   jsonschema
     #   requests
-imageio[ffmpeg]==2.26.0
+imageio[ffmpeg]==2.28.1
     # via -r requirements.in
 imageio-ffmpeg==0.4.8
     # via imageio
@@ -314,6 +314,7 @@ pyshp==2.3.1
     # via landlab
 python-dateutil==2.8.2
     # via
+    #   arrow
     #   jupyter-client
     #   matplotlib
     #   pandas
