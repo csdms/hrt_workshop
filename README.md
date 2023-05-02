@@ -7,8 +7,10 @@ You can run the tutorial notebooks either on the CSDMS JupyterHub or on your loc
 
 ### Method 1: Use the CSDMS JupyterHub 
 - All the HRT workshop participants have a user account on the CSDMS JupyterHub. 
-- Click on [this link](https://lab.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2F%2Fcsdms%2Fhrt_workshop&urlpath=lab%2Ftree%2Fhrt_workshop%3Fautodecode&branch=master). 
+- Click on **[this link](https://lab.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2F%2Fcsdms%2Fhrt_workshop&urlpath=lab%2Ftree%2Fhrt_workshop%3Fautodecode&branch=master)**. 
 It will lead you to the login page (see figure below). After you provide the account info, the tutorial notebooks will be loaded on the CSDMS JupyterHub.
+- Select the **"CSDMS" kernel** before running the notebooks.
+
 ![login_plot](login.png)
 
 ### Method 2: Use Local PC
