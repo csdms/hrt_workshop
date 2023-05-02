@@ -1,4 +1,4 @@
-name: overland_flow
+name: landlab_tutorials
 channels:
   - conda-forge
 dependencies:
