@@ -1,8 +1,9 @@
-# Landlab Tutorials for the HRT Workshop
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gantian127/overlandflow_usecase/blob/master/LICENSE.txt)
-
 # Model-Data Integration with Landlab
 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gantian127/overlandflow_usecase/blob/master/LICENSE.txt)
+[![Run on EarthscapeHub](badge)](jhub-link)
+
+EarthCube Advancing the Analysis of HRT Workshop #2  
 May 10, 2023  
 Arizona State University, Tempe, AZ
 
@@ -18,20 +19,20 @@ code. This clinic is intended both for beginners, who may have little to no
 experience using the *Landlab* library, as well as for more advanced *Landlab* users.
 Prior experience with Python programming will be helpful.
 
-This repository includes the Jupyter Notebooks used as the [Landlab][landlab-docs]
-tutorials for the [EarthCube Advancing the Analysis of HRT Workshop #2][hrt-workshop].
+This repository includes the Jupyter Notebooks used as the [Landlab](landlab-docs)
+tutorials for the [EarthCube Advancing the Analysis of HRT Workshop #2](hrt-workshop).
 You can run the tutorial notebooks either on the CSDMS JupyterHub or on your local PC.
 
 ## 🚀 Run the lessons
 
-All lessons are available to run on [EarthscapeHub][jhub].
+All lessons are available to run on [EarthscapeHub](jhub-info).
 
-👉 [![Run on EarthscapeHub][badge]][jhub-link] 👈
+👉 [![Run on EarthscapeHub](badge)](jhub-link) 👈
 
-> ⚠️ Select the **"CSDMS" kernel** before running the notebooks.
+> ⚠️ **NOTE:** Select the **"CSDMS" kernel** before running the notebooks.
 
 
-> **Note:** The EarthscapeHub *lab* instance is password-protected.
+> ⚠️ **NOTE:** The EarthscapeHub *lab* instance is password-protected.
   Please contact your instructor about obtaining a login,
   or visit [the CSDMS wiki][jhub-info] page for more information.
 
@@ -39,17 +40,16 @@ All lessons are available to run on [EarthscapeHub][jhub].
 
 If you would like to run these notebooks on your personal computer, you can do
 that too. You will need to have a Python installation (we recommend the
-[Anaconda distribution][anaconda-download], but others should work as well).
+[Anaconda distribution](anaconda-download), but others should work as well).
 
-If you have `git` installed on your computer, you can get the lessons by cloning
-this repository,
+If you have `git` installed, you can get the lessons by cloning this repository,
 
     git clone git@github.com:csdms/hrt_workshop
 
-You can, alternatively, [download a zip file][hrt-workshop-zip] of the repository.
+You can, alternatively, [download a zip file](hrt-workshop-zip) of the repository.
 
-Install the necessary dependencies to run the notebooks into your current
-environment (either *pip* or *conda*/*mamba* should work),
+Once you have the source code, install the necessary dependencies to run the
+notebooks into your current environment (either *pip* or *conda*/*mamba* should work),
 
     cd hrt_workshop
     pip install -r requirements.in
