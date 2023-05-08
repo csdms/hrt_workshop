@@ -1,7 +1,7 @@
 # Model-Data Integration with Landlab
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gantian127/overlandflow_usecase/blob/master/LICENSE.txt)
-[![Run on EarthscapeHub](badge)](jhub-link)
+[![Run on EarthscapeHub][badge]](jhub-link)
 
 EarthCube Advancing the Analysis of HRT Workshop #2  
 May 10, 2023  
@@ -27,7 +27,7 @@ You can run the tutorial notebooks either on the CSDMS JupyterHub or on your loc
 
 All lessons are available to run on [EarthscapeHub](jhub-info).
 
-👉 [![Run on EarthscapeHub](badge)](jhub-link) 👈
+👉 [![Run on EarthscapeHub][badge]](jhub-link) 👈
 
 > ⚠️ **NOTE:** Select the **"CSDMS" kernel** before running the notebooks.
 
