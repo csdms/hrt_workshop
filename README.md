@@ -66,7 +66,7 @@ notebooks into your current environment (either *pip* or *conda*/*mamba* should 
     pip install -r requirements.in
 
 
-![login_plot][login.png]
+![login_plot](login.png)
 
 
 [anaconda-download]: https://www.anaconda.com/download
