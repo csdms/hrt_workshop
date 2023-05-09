@@ -3,7 +3,8 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gantian127/overlandflow_usecase/blob/master/LICENSE.txt)
 [![Run on EarthscapeHub][badge]](jhub-link)
 
-EarthCube Advancing the Analysis of HRT Workshop #2\
+Eric Hutton, Tian Gan\
+[EarthCube Advancing the Analysis of HRT Workshop #2](hrt-workshop)\
 May 10, 2023\
 Arizona State University, Tempe, AZ
 
@@ -19,9 +20,18 @@ code. This clinic is intended both for beginners, who may have little to no
 experience using the *Landlab* library, as well as for more advanced *Landlab* users.
 Prior experience with Python programming will be helpful.
 
-This repository includes the Jupyter Notebooks used as the [Landlab](landlab-docs)
-tutorials for the [EarthCube Advancing the Analysis of HRT Workshop #2](hrt-workshop).
-You can run the tutorial notebooks either on the CSDMS JupyterHub or on your local PC.
+# https://github.com/csdms/hrt_workshop
+
+## 🔗 Useful Links
+
+Overview papers:
+*  Hobley et al. (2017) “all about”: https://doi.org/10.5194/esurf-5-21-2017
+*  Barnhart et al. (2020) Landlab 2.0: https://doi.org/10.5194/esurf-8-379-2020
+*  Tucker et al. (2022) CSDMS: https://doi.org/10.5194/gmd-15-1413-2022
+*  Digital repository on GitHub: https://github.com/landlab
+
+Development: https://github.com/landlab/landlab \
+Documentation: https://landlab.readthedocs.io
 
 ## 🚀 Run the lessons
 
@@ -35,6 +45,7 @@ All lessons are available to run on [EarthscapeHub](jhub-info).
 > ⚠️ **NOTE:** The EarthscapeHub *lab* instance is password-protected.
   Please contact your instructor about obtaining a login,
   or visit [the CSDMS wiki][jhub-info] page for more information.
+
 
 ### Local installation
 
