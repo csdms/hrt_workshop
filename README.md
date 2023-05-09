@@ -1,6 +1,6 @@
 # Model-Data Integration with Landlab
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gantian127/overlandflow_usecase/blob/master/LICENSE.txt)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/csdms/hrt_workshop/blob/master/LICENSE.txt)
 [![Run on EarthscapeHub][badge]][jhub-link]
 
 Eric Hutton, Tian Gan\
@@ -35,7 +35,7 @@ Documentation: https://landlab.readthedocs.io
 
 ## 🚀 Run the lessons
 
-All lessons are available to run on [EarthscapeHub](jhub-info).
+All lessons are available to run on [EarthscapeHub][jhub-info].
 
 👉 [![Run on EarthscapeHub][badge]][jhub-link] 👈
 
@@ -51,13 +51,13 @@ All lessons are available to run on [EarthscapeHub](jhub-info).
 
 If you would like to run these notebooks on your personal computer, you can do
 that too. You will need to have a Python installation (we recommend the
-[Anaconda distribution](anaconda-download), but others should work as well).
+[Anaconda distribution][anaconda-download], but others should work as well).
 
 If you have `git` installed, you can get the lessons by cloning this repository,
 
     git clone git@github.com:csdms/hrt_workshop
 
-You can, alternatively, [download a zip file](hrt-workshop-zip) of the repository.
+You can, alternatively, [download a zip file][hrt-workshop-zip] of the repository.
 
 Once you have the source code, install the necessary dependencies to run the
 notebooks into your current environment (either *pip* or *conda*/*mamba* should work),
@@ -66,7 +66,7 @@ notebooks into your current environment (either *pip* or *conda*/*mamba* should 
     pip install -r requirements.in
 
 
-![login_plot](login.png)
+![login_plot][login.png]
 
 
 [anaconda-download]: https://www.anaconda.com/download
