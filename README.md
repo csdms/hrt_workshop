@@ -4,7 +4,7 @@
 [![Run on EarthscapeHub][badge]](jhub-link)
 
 Eric Hutton, Tian Gan\
-[EarthCube Advancing the Analysis of HRT Workshop #2](hrt-workshop)\
+[EarthCube Advancing the Analysis of HRT Workshop #2][hrt-workshop]\
 May 10, 2023\
 Arizona State University, Tempe, AZ
 
