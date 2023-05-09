@@ -3,8 +3,8 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gantian127/overlandflow_usecase/blob/master/LICENSE.txt)
 [![Run on EarthscapeHub][badge]](jhub-link)
 
-EarthCube Advancing the Analysis of HRT Workshop #2  
-May 10, 2023  
+EarthCube Advancing the Analysis of HRT Workshop #2\
+May 10, 2023\
 Arizona State University, Tempe, AZ
 
 This workshop will be divided into two parts. In the first half we will provide a
