@@ -30,6 +30,10 @@ repos:
     - id: nbqa-isort
     - id: nbqa-flake8
       args: ["--extend-ignore=E402"]
+      exclude: |
+          (?x)^(
+              01-intro-to-landlab/01-intro.ipynb
+          )
 
 - repo: https://github.com/pycqa/flake8
   rev: 6.0.0
