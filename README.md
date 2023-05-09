@@ -63,6 +63,6 @@ notebooks into your current environment (either *pip* or *conda*/*mamba* should 
 [hrt-workshop]: https://opentopography.org/workshops/earthcube-advancing-analysis-hrt-workshop-2
 [hrt-workshop-zip]: https://github.com/csdms/hrt_workshop/archive/refs/heads/master.zip
 [jhub-info]: https://csdms.colorado.edu/wiki/JupyterHub
-[jhub-link]: https://lab.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2F%2Fcsdms%2Fhrt_workshop&urlpath=lab%2Ftree%2Fhrt_workshop%3Fautodecode&branch=master
+[jhub-link]: https://lab.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fhrt_workshop&urlpath=tree%2Fhrt_workshop%2Fwelcome.ipynb&branch=master
 [landlab-dev]: https://github.com/landlab/landlab/
 [landlab-docs]: https://landlab.readthedocs.io/
