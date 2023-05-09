@@ -1,7 +1,7 @@
 # Model-Data Integration with Landlab
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gantian127/overlandflow_usecase/blob/master/LICENSE.txt)
-[![Run on EarthscapeHub][badge]](jhub-link)
+[![Run on EarthscapeHub][badge]][jhub-link]
 
 Eric Hutton, Tian Gan\
 [EarthCube Advancing the Analysis of HRT Workshop #2][hrt-workshop]\
@@ -37,7 +37,7 @@ Documentation: https://landlab.readthedocs.io
 
 All lessons are available to run on [EarthscapeHub](jhub-info).
 
-👉 [![Run on EarthscapeHub][badge]](jhub-link) 👈
+👉 [![Run on EarthscapeHub][badge]][jhub-link] 👈
 
 > ⚠️ **NOTE:** Select the **"CSDMS" kernel** before running the notebooks.
 
