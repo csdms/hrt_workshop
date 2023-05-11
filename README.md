@@ -35,12 +35,7 @@ Documentation: https://landlab.readthedocs.io
 
 ## 🚀 Run the lessons
 
-All lessons are available to run on [EarthscapeHub][jhub-info].
-
 👉 [![Run on EarthscapeHub][badge]][jhub-link] 👈
-
-> ⚠️ **NOTE:** Select the **"CSDMS" kernel** before running the notebooks.
-
 
 > ⚠️ **NOTE:** The EarthscapeHub *lab* instance is password-protected.
   Please contact your instructor about obtaining a login,
