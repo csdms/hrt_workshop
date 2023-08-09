@@ -405,7 +405,7 @@ tornado==6.2
     #   nbclassic
     #   notebook
     #   terminado
-tqdm==4.65.0
+tqdm==4.66.0
     # via -r requirements.in
 traitlets==5.9.0
     # via
